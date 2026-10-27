@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!-- Page background of the Synco design, shown while the first frame is drawn. -->
+    <color name="synco_background">#FFF0F1F3</color>
+    <color name="synco_accent">#FFD94B52</color>
 </resources>
